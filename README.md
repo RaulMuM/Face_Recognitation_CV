@@ -1,23 +1,18 @@
-# CV_equipo9
-
-Face Recognition with OpenCV and Python
-
 <h1 align="center">
-  <p align="left">Proyecto NLP</p>
+  <p align="left">Proyecto Face Recognition with OpenCV and Python</p>
   <img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/108665291/207138055-87f92d1c-3810-42bf-8f98-148f847e9a87.png">
 </h1>
+d
+# Proyecto CV
 
-# LAB ML
-Es una StartUp creada por un equipo de desarrolladores IA estudiantes de Factoria F5. 
+El objetivo es desarrollar soluciones de reconocimiento facial para la comprobación de entrada e identificación de los trabajadores en una empresa.
 
-Nuestra misión es desarrollar soluciones utilizando algoritmos de IA y Machine Learning para dar respuestas eficientes  a las problematicas que las empresas se enfrentan día a día, así nace API LAB ML .
+# Planteamiento
 
-# Descripción del proyecto API LAB ML
-API LAB ML es la plataforma que elegimos para vizualzar las soluciones que ofrecemos a nuestros clientes.
-Utilizamos el Framework de [Tiangolo's FastAPI](https://fastapi.tiangolo.com/), el cual conecta los algoritmos de ML que desarrollamos.
+La idea es que en vez de comprobar entradas e identificaciones los trabajadores se acerquen a un portátil y este reconozca su cara mediante IA y les permita o no el paso. Se pide implementar un sistema utilizando machine learning que mediante una cámara detecte en tiempo real si la persona que hay delante es un empleado o no. Para ello no se dispone de ningún dato externo, los datos utilizados deberán ser obtenidos por los expertos en IA. El modelo y los datos deben ejecutarse en un ordenador portátil, no se permiten utilizar servicios en la nube por cuestiones de privacidad. 
 
 # :mechanical_arm:Estado del proyecto
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto que podria ser mejorado con análisis de sentimiento o detecci:construction:
 
 *Siempre intentamos innovar y mejorar nuestros algoritmos !*
 ![imagen](https://user-images.githubusercontent.com/108665291/207285962-ecf1c7d2-676b-46c1-977f-79020e29513e.png)
