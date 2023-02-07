@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="left">Project about Face Recognition and Identification with OpenCV</p>
+  <p align="left">Proyecto sobre Reconocimiento Facial con OpeneCV</p>
   <img align="center" width="500" height="400" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
 </h1>
 
@@ -15,17 +15,18 @@ La idea es que en vez de comprobar entradas e identificaciones los trabajadores 
 :construction: Proyecto que podria ser mejorado con análisis de sentimiento o detección de mascarillas :construction:
 
 *Siempre intentamos innovar y mejorar nuestros algoritmos !*
-![imagen](https://user-images.githubusercontent.com/108665291/207285962-ecf1c7d2-676b-46c1-977f-79020e29513e.png)
+![Captura desde 2023-02-06 15-50-25](https://user-images.githubusercontent.com/109469745/217253461-8e1379e4-dfcc-4722-9759-48b7e079c744.png)
 
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Implementación de un sistema de logging que al reconocer a una persona guarde la imagen completa que se clasifica junto a la hora y el día
 - `Funcionalidad 2`: Sistema de logging por registro facial
+
 - `Funcionalidad 3`: Registro de entrada de la persona identificada con la hora y el día de entrada
 
 ## 📁 Acceso al proyecto
 
-*Descarga el contenido del repositorio* >> https://github.com/Factoria-F5-AI-Bootcamp-1-Edicion/Equipo_Preposicion.git 
+*Descarga el contenido del repositorio público* >> https://github.com/Factoria-F5-AI-Bootcamp-1-Edicion/CV_equipo9
 
 ## 🛠️ Abre y ejecuta el proyecto
 
@@ -37,22 +38,26 @@ conda create -n nombreEntorno
 ```
 requirements.txt
 ```
-3. Desde la terminal, situate en la carpeta que contiene los archivos de la API y desde allí ejecute
+3. Desde la terminal, situate en la carpeta que contiene los archivos de la app y desde allí ejecute
 ```
-uvicorn app.main:app
+python basic_FaceRecognition.py
 ```
 
 # :wrench: Tecnologías usadas:
 
-   - **Metodología Scrum:** Jira (https://castanedarebeca.atlassian.net/jira/software/projects/NLP/boards/3/roadmap)
-   - **Desarrollo:** Git y GitHub, Jupyterlab, FastApi, Scikit-learn( CountVectorizer y Tfidfvectorizer), FastApi, Spacy/NLTK, Pandas, Numpy, WordCloud,      Pipeline.
-   - **Presentación:** Canva (https://www.canva.com/design/DAFUQ9AnMtU/rv2CXEFWr4sXl9UqcaensA/view?utm_content=DAFUQ9AnMtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+   - **Metodología Scrum:** Trello (https://trello.com/invite/b/qp6mvqmj/ATTI8e2a1f3eae8efca2fafd7dd16837505225D3FC7D/proyecto-vision-por-comutadora)
+   - **Desarrollo:** Git y GitHub, Jupyter, Visual Studio Code, OpenCV, Face Recognition module, MTCNN, tkinter
+   - **Presentación:** Canva (https://www.canva.com/design/DAFZy34-Tb8/cIZek4UlllgtuwDvqkMtcQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare) 
+# Autores
 
+![Captura desde 2023-02-07 13-48-38](https://user-images.githubusercontent.com/109469745/217249463-149e2390-002c-40a7-9a38-92b6ea815f67.png)
+![Captura desde 2023-02-07 13-50-47](https://user-images.githubusercontent.com/109469745/217249746-00ee0a58-683e-4670-8166-b4ad5069cdf0.png)
 
-## Autores![equipo](https://user-images.githubusercontent.com/108665291/207284142-daa21e46-24a1-4c1a-b799-57114fccd1db.png)
 
 ## :mailbox:Contacta con nosotros:
-- Discord:https://discord.gg/7pDFqxpR
-- Email: hello@labml_madrid.com
+
+- Email: vaneza@facroriaf5.com ; 
+         raul@factoriaf5.com
+
 
 
