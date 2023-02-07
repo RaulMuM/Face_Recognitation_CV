@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="left">Proyecto Face Recognition with OpenCV and Python</p>
-  <img align="center" width="300" height="300" src="../ImageFaceRecognition_readme.html">
+  <img align="center" width="300" height="300" img="../ImageFaceRecognition_readme.html">
 </h1>
 
 # Proyecto CV
