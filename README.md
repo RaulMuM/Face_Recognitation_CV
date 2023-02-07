@@ -50,8 +50,8 @@ python basic_FaceRecognition.py
    - **Presentación:** Canva (https://www.canva.com/design/DAFZy34-Tb8/cIZek4UlllgtuwDvqkMtcQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare) 
 # Autores
 
-![Captura desde 2023-02-07 23-52-49](https://user-images.githubusercontent.com/109469745/217385327-2975fd4a-47e4-45c3-a414-9c7fbc4cc6b6.png)
-![Captura desde 2023-02-07 23-53-36](https://user-images.githubusercontent.com/109469745/217385334-30a14c98-eb37-4f4f-95de-c3546a65ab89.png)
+![Captura desde 2023-02-07 23-57-12](https://user-images.githubusercontent.com/109469745/217386002-4011ea99-1981-4205-bbf4-c9f554ce37a6.png)
+![Captura desde 2023-02-08 00-01-17](https://user-images.githubusercontent.com/109469745/217386461-d6382d1e-8e12-4de1-ae2b-7ba8eb4a4683.png)
 
 
 
@@ -59,6 +59,5 @@ python basic_FaceRecognition.py
 
 - Email: vaneza@facroriaf5.com ; 
          raul@factoriaf5.com
-
 
 
