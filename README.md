@@ -1,8 +1,8 @@
 <h1 align="center">
   <p align="left">Proyecto Face Recognition with OpenCV and Python</p>
-  <img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/108665291/207138055-87f92d1c-3810-42bf-8f98-148f847e9a87.png">
+  <img align="center" width="300" height="300" src="https://pin.it/4eaEWl1">
 </h1>
-d
+
 # Proyecto CV
 
 El objetivo es desarrollar soluciones de reconocimiento facial para la comprobación de entrada e identificación de los trabajadores en una empresa.
@@ -12,7 +12,7 @@ El objetivo es desarrollar soluciones de reconocimiento facial para la comprobac
 La idea es que en vez de comprobar entradas e identificaciones los trabajadores se acerquen a un portátil y este reconozca su cara mediante IA y les permita o no el paso. Se pide implementar un sistema utilizando machine learning que mediante una cámara detecte en tiempo real si la persona que hay delante es un empleado o no. Para ello no se dispone de ningún dato externo, los datos utilizados deberán ser obtenidos por los expertos en IA. El modelo y los datos deben ejecutarse en un ordenador portátil, no se permiten utilizar servicios en la nube por cuestiones de privacidad. 
 
 # :mechanical_arm:Estado del proyecto
-:construction: Proyecto que podria ser mejorado con análisis de sentimiento o detecci:construction:
+:construction: Proyecto que podria ser mejorado con análisis de sentimiento o detección de mascarillas :construction:
 
 *Siempre intentamos innovar y mejorar nuestros algoritmos !*
 ![imagen](https://user-images.githubusercontent.com/108665291/207285962-ecf1c7d2-676b-46c1-977f-79020e29513e.png)
