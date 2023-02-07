@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="left">Project about Face Recognition and Identification with OpenCV</p>
-  <img align="center" width="800" height="400" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
+  <img align="center" width="500" height="400" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
 </h1>
 
 # Proyecto CV
