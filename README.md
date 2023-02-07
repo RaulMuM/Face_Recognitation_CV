@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="left">Proyecto Face Recognition with OpenCV and Python</p>
-  <img align="center" width="700" height="300" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
+  <img align="center" width="1000" height="500" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
 </h1>
 
 # Proyecto CV
