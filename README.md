@@ -50,8 +50,9 @@ python basic_FaceRecognition.py
    - **Presentación:** Canva (https://www.canva.com/design/DAFZy34-Tb8/cIZek4UlllgtuwDvqkMtcQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare) 
 # Autores
 
-![Captura desde 2023-02-07 13-48-38](https://user-images.githubusercontent.com/109469745/217249463-149e2390-002c-40a7-9a38-92b6ea815f67.png)
-![Captura desde 2023-02-07 13-50-47](https://user-images.githubusercontent.com/109469745/217249746-00ee0a58-683e-4670-8166-b4ad5069cdf0.png)
+![Captura desde 2023-02-07 23-52-49](https://user-images.githubusercontent.com/109469745/217385327-2975fd4a-47e4-45c3-a414-9c7fbc4cc6b6.png)
+![Captura desde 2023-02-07 23-53-36](https://user-images.githubusercontent.com/109469745/217385334-30a14c98-eb37-4f4f-95de-c3546a65ab89.png)
+
 
 
 ## :mailbox:Contacta con nosotros:
