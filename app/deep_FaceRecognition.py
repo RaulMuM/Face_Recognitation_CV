@@ -157,7 +157,7 @@ def login_facial():
     #-------------------------- Detectamos el rostro-------------------------------------------------------
     
     img = usuario_login+"LOG.jpg"
-    pixeles = pyplot.imread(img)
+    pixeles = pyplot.imread(img)    #Leemos una imagen como un array de valores RGB
     detector = MTCNN()
     caras = detector.detect_faces(pixeles)
     log_rostro(img, caras)
